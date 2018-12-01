@@ -2,7 +2,7 @@
 Api Rest con Slim framewrok con PHP 
 Consumiendo modulo de estudiantes
 
-# Para instalar las dependencias ejecite
+# Para instalar las dependencias ejecute
 composer install
 
 # Para ejecutar el servidor ejecute
